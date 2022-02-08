@@ -1,2 +1,2 @@
-# voting-app
-A multipurpose voting application
+# Election App
+Create and manage digital elections
